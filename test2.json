@@ -1,11 +1,5 @@
-[{
+{
     "navn": "Tor Martin",
     "alder": 31,
     "jobb": "Lærer" 
- },
- {
-    "navn": "Martin Tor",
-    "alder": 32,
-    "jobb": "Utvikler" 
  }
-]
